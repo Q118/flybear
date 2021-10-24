@@ -1,0 +1,30 @@
+{
+  "name": "flybear",
+  "version": "1.0.0",
+  "description": "Creation of simple game to gain knowledge and practice with TypeScript",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Q118/flybear.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "game",
+    "retro",
+    "learn"
+  ],
+  "author": "Shelby Rothman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Q118/flybear/issues"
+  },
+  "homepage": "https://github.com/Q118/flybear#readme"
+}
